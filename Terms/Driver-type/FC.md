@@ -1,0 +1,4 @@
+# Understanding Fibre Channel
+Fibre Channel (FC) là công nghệ mạng kết nối I/O nối tiếp có khả năng hỗ trợ nhiều giao thức. Nó được sử dụng chủ yếu cho các mạng khu vực lưu trữ (SAN). Ủy ban tiêu chuẩn hóa FC là Ủy ban Quốc tế về Tiêu chuẩn Công nghệ Thông tin (INCITS).
+
+Mạng FC cung cấp các đặc tính hiệu suất cao như truyền tải không mất dữ liệu kết hợp với cấu trúc liên kết mạng linh hoạt. FC chủ yếu được sử dụng trong các mạng vùng lưu trữ (SAN) vì nó cung cấp vận chuyển khung theo thứ tự, không mất dữ liệu, đáng tin cậy giữa các bộ khởi tạo và mục tiêu. Các thành phần FC bao gồm bộ khởi tạo, mục tiêu và công tắc có khả năng FC kết nối các thiết bị FC và cũng có thể kết nối các thiết bị FC với thiết bị Fibre Channel qua Ethernet (FCoE). Trình khởi tạo bắt nguồn các lệnh I / O. Mục tiêu nhận lệnh I / O. Ví dụ, một máy chủ có thể bắt đầu một yêu cầu I / O tới mục tiêu thiết bị lưu trữ.
