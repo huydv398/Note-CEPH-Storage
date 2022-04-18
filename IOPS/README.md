@@ -6,7 +6,7 @@
 1. [IOPS in SSDs vs. HDDs](#4-iops-in-ssds-vs-hdds)
 1. [Chỉ số IOPS có quan trọng không?](#5-chỉ-số-iops-có-quan-trọng-không)
 1. [Các thuật ngữ](#6-term)
-1. []()
+1. [Làm cách nào để tính IOPS?](#7-làm-cách-nào-để-tính-iops)
 ## 1. What is IOPS ?
 **IOPS ([input/output](/Terms/I-O.md) operations per second)**
 * là đơn vị đo lường tiêu chuẩn cho số lần đọc và ghi tối đa cho các vị trí lưu trữ không liền kề. IOPS được phát âm là EYE-OPS
@@ -42,7 +42,7 @@ Vì số IOPS bị ảnh hưởng bởi kích thước của khối dữ liệu 
 1. [Driver type - SAS](/Terms/Driver-type/SAS.md)
 1. [Driver type - SATA](/Terms/Driver-type/Sata.md)
 1. [RPM](/Terms/RPM.md)
-1. [QoS - Quality of service ]()
+1. [QoS - Quality of service ](/Terms/QoS.md)
 1. [Latency](/Terms/Latency.md)
 1. [Throughput](/Terms/throughput.md)
 1. [Jitter](/Terms/Jitter.md)
@@ -54,8 +54,13 @@ IOPS là một hàm của **rotational speed** - tốc độ quay (còn gọi l�
 ```
 1 / (seek + latency) = IOPS.
 ```
+## Bendmark by Fio 
+Fio tạo ra một số luồng hoặc quy trình thực hiện một loại hành động I/O cụ thể do người dùng chỉ định. fio nhận một số tham số toàn cục, mỗi tham số được kế thừa bởi luồng trừ khi các tham số được cung cấp cho chúng ghi đè cài đặt đó được đưa ra. Việc sử dụng điển hình của fio là viết một tệp công việc phù hợp với tải I/O mà người ta muốn mô phỏng.
 
+* Fio được viết bởi Jens Axboe
+* Fio works on (at least) Linux, Solaris, AIX, HP-UX, OSX, NetBSD, OpenBSD, Windows, FreeBSD, and DragonFly
 
+Hướng dẫn sử dụng Fio --> [Here](/FIO/README.md)
 1. []()
 1. []()
 1. []()
