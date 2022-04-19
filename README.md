@@ -5,7 +5,7 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
 ## I. Vấn đề cơ bản	
 1. [Tìm hiểu Ổ cứng, SSD, HDD, SAS](/Docs/1.what-is-hard-drive.md)
 1. [Thông số cần chú ý trong Datasheet của từng loại](/Docs/)
-1. [Cấu tạo Ổ cứng- thống số(Random read,...)](/Docs/)
+1. [Cấu tạo Ổ cứng](/Docs/)
 1. [Cơ chế đọc ghi dữ liệu- Ví dụ khi download file sử lý thông tin như thế nào](/Docs/)
 1. [Chuẩn Driver type FC, SAS, SATA, PCI-E](/Docs/)
 1. [HDD và SSD](/Docs/)
@@ -13,6 +13,12 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
 1. [SAS - RPM - track](/Docs/)
 ## II. ỨNG DỤNG
 1. [File system](/Docs/)
+    1. [s]()
+    1. [s]()
+    1. [s]()
+    1. [s]()
+    1. [s]()
+    1. [s]()
 1. [RAID](/Docs/)
 1. [Partition Table](/Docs/)
 1. [LVM](/Docs/)
