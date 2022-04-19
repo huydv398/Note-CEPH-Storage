@@ -3,7 +3,7 @@ Ghi chép tìm hiểu STORAGE
 
 Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. Lộ trình xây dựng các kiến thức phần cứng đến phần mềm bao gồm các thông số cơ bản đến cấu hình cài đặt các phần mềm lưu trữ chuyên dụng trong lĩnh vực storage và cloud computing.
 ## I. Vấn đề cơ bản	
-1. [Các loại thiết bị Lưu trữ](/Docs/1.Types-of-storage-devices.md)
+1. [Các loại thiết bị Lưu trữ cơ bản](/Docs/1.Types-of-storage-devices.md)
 1. [Tìm hiểu Ổ cứng, SSD, HDD, SAS](/Docs/)
 1. [Thông số cần chú ý trong Datasheet của từng loại](/Docs/)
 1. [Cấu tạo Ổ cứng](/Docs/)
