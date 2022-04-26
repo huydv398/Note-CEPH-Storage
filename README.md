@@ -4,13 +4,14 @@ Ghi chép tìm hiểu STORAGE
 Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. Lộ trình xây dựng các kiến thức phần cứng đến phần mềm bao gồm các thông số cơ bản đến cấu hình cài đặt các phần mềm lưu trữ chuyên dụng trong lĩnh vực storage và cloud computing.
 ## I. Vấn đề cơ bản	
 1. [Các loại thiết bị Lưu trữ cơ bản](/Docs/1.Types-of-storage-devices.md)
-1. [Tìm hiểu **Ổ cứng HDD**](/Docs/2.hard-disk-drive.md)
+1. [Tìm hiểu **Ổ cứng HDD**](/Docs/2.1hard-disk-drive.md)
     * [Nguyên lý hoạt động đọc - ghi vào Ổ cứng HDD](/Docs/2.2-Write-Read-HDD.md)
 1. [Tìm hiểu **Ổ cứng SSD**](/Docs/3.SSD.md)
     * [Nguyên lý hoạt động đọc ghi vào  Ổ cứng SSD](/Docs//Docs/3.2-ssd-work.md)
 1. [Thông số cần chú ý trong Datasheet của từng loại](/Docs/4.data-sheet-drive.md)
 1. [Block size & Hiệu suất Disk liên tục](/Docs/5.performance&block.md)
-1. [Chuẩn Driver type FC, SAS, SATA, PCI-E](/Docs/6.drive-interfaces.md)
+1. [Thông số hiệu suất Disk: IOPS, Throughput, Legacy](/IOPS/README.md)
+1. [Drive interface FC, SAS, SATA, NVME(PCIe)](/Docs/6.drive-interfaces.md)
 ## II. ỨNG DỤNG
 1. [File system](/Docs/)
     1. [ext3,ext4,lvm,đ fio,]()
