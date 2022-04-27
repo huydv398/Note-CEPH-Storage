@@ -13,7 +13,22 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
 1. [Thông số hiệu suất Disk: IOPS, Throughput, Legacy](/IOPS/README.md)
 1. [Drive interface FC, SAS, SATA, NVME(PCIe)](/Docs/6.drive-interfaces.md)
 ## II. ỨNG DỤNG
-1. [File system](/Docs/)
+1. [File system](/Docs/Filesystem/1.file-system.md)
+    1. [File system Windows](/Docs/Filesystem/1.1.File-system-Windows.md)
+    1. [File system Linux](/Docs/Filesystem/1.2.File-system-Linux.md)
+1. [File system](/Docs/Filesystem/)
+1. [File system](/Docs/Filesystem/)
+1. [File system](/Docs/Filesystem/)
+1. [File system](/Docs/Filesystem/)
+1. [File system](/Docs/Filesystem/)
+1. [File system](/Docs/Filesystem/)
+1. [File system](/Docs/Filesystem/)
+1. [File system](/Docs/Filesystem/)
+1. [File system](/Docs/Filesystem/)
+1. [File system](/Docs/Filesystem/)
+1. [File system](/Docs/Filesystem/)
+File  System
+
     1. [ext3,ext4,lvm,đ fio,]()
     1. [s]()
     1. [s]()
