@@ -15,8 +15,9 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
 ## II. ỨNG DỤNG
 1. [File system](/Docs/Filesystem/1.file-system.md)
     1. [File system Windows](/Docs/Filesystem/1.1.File-system-Windows.md)
-    1. [File system Linux](/Docs/Filesystem/1.2.File-system-Linux.md)
-1. [File system](/Docs/Filesystem/)
+    1. [File system Linux - part 1](/Docs/Filesystem/1.2.File-system-Linux.md)
+    1. [File system Linux - part 2](/Docs/Filesystem/1.3.File-system-Linux2.md)
+1. [Các loại File system in linux](/Docs/Filesystem/2.types-file-linux.md)
 1. [File system](/Docs/Filesystem/)
 1. [File system](/Docs/Filesystem/)
 1. [File system](/Docs/Filesystem/)
