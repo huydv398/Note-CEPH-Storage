@@ -19,7 +19,7 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
     1. [File system Linux - part 2](/Docs/Filesystem/1.3.File-system-Linux2.md)
 1. [Các loại File system in linux](/Docs/Filesystem/2.types-file-linux.md)
 1. [Cấu trúc File system](/Docs/Filesystem/3.Structure-FS.md)
-1. [File system](/Docs/Filesystem/)
+1. [File system in Userspace](/Docs/Filesystem/4.FUSE.md)
 1. [File system](/Docs/Filesystem/)
 1. [File system](/Docs/Filesystem/)
 1. [File system](/Docs/Filesystem/)
