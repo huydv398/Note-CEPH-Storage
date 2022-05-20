@@ -33,9 +33,11 @@
 * Một **Physical Volume** không thể mở rộng ra ngoài phạm vi 1 ổ đĩa
 * có thể kết hợp nhiều **physical Volume** thành một **Volume Group**.
 ### 4. Volume group (VG)
+![Imgur](https://i.imgur.com/HqF0FqA.png)
 * Nhiều **Physical Volume** trên những ở đĩa khác nhau kết hợp lại thành 1 **Volume Group**
 * **Volume Group** được dùng để tạo ra các **Logical Volume**, trong đó người dùng có thể tạo, thay đổi kích thước, Gỡ bỏ và sử dụng chúng
 ### 5. Logical Volume 
+![Imgur](https://i.imgur.com/iyxo9Ri.png)
 * **Volume Group** được chia nhỏ thành các **Logical Volume**,Mỗi **Logical Volume** có ý nghĩa tương tự 1 Partition. Nó được dùng cho các mount point và được format với những định dạng khác nhau như `ext2`, `ext3`, `ext4`, `xfs`, ...
 * Khi dung lượng của **Physical Volume** được sử dụng hết ta có thể thêm ổ đĩa mới bổ sung cho **Volume Group** và do đó tăng được dung lượng của **Logical Volume**
 ### 6. File Systems (FS)
