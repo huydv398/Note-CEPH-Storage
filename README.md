@@ -31,7 +31,7 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
     * [Phân vùng MBR](/Docs/PartitionTable/MBR.md)
     * [Chuẩn BIOS](/Docs/PartitionTable/BIOS.md)
     * [Chuẩn UEFI](/Docs/PartitionTable/UEFI.md)
-1. [`/etc/fstab`]([Imgur](https://i.imgur.com/OdT8JwX.png))
+1. [`/etc/fstab`](https://imgur.com/OdT8JwX)
 1. [LVM](/Docs/LVM/README.md)
     1. [Thông tin cơ bản về quản lý khối- **LVM** (Logical Volume Manger)](/Docs/LVM/lvm.md)
     1. [LVM - Các loại Logical Volume](/Docs/LVM/2.Type-lv.md)
