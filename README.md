@@ -33,9 +33,9 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
     * [Chuẩn UEFI](/Docs/PartitionTable/UEFI.md)
 
 1. [LVM](/Docs/LVM/README.md)
-    1. [LVM](/Docs/LVM/lvm.md)
-    1. [LVM](/Docs/LVM/)
-    1. [LVM](/Docs/LVM/)
+    1. [Thông tin cơ bản về quản lý khối- **LVM** (Logical Volume Manger)](/Docs/LVM/lvm.md)
+    1. [LVM - Các loại Logical Volume](/Docs/LVM/2.Type-lv.md)
+    1. [LVM - Cấu hình cơ bản](/Docs/LVM/3.config-basic.md)
     1. [LVM](/Docs/LVM/)
     1. [LVM](/Docs/LVM/)
     1. [LVM](/Docs/LVM/)
