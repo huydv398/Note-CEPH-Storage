@@ -1,4 +1,4 @@
-# Note-IOPS-FIO
+# Note-IOPS
  Ghi chép tìm hiểu IOPS và sử dụng FIO để test. 
 1. [What is IOPS ?](#1-what-is-iops)
 1. [Giải thích IOPS, latency và throughput](#2-giải-thích-iops-latency-và-throughput)
@@ -17,7 +17,7 @@ Có 3 yếu tố quan trọng trong Storage:
 * **Bandwidth** 
 * **Latency**
 ### Giải thích IOPS, latency và throughput
-* [**Bandwidth** - Throughput - Thông lượng](/IOPS//Terms/throughput.md): 
+* [**Bandwidth** - Throughput - Thông lượng](/IOPS/Terms/throughput.md): 
     * Đo lường bao nhiêu đơn vị thông tin mà hệ thống có thể xử lý trong một khoảng thời gian. Nó có thể đề cập đến số lượng hoạt động I/O mỗi giây, nhưng thương được đo bằng Bytes trên giây. Riêng IOPS và throughput không thể cung cấp phép đo hiệu suất chính xác.
     * giá trị đại diện cho khối lượng dữ liệu có thể xử lý trong 1 thời điểm - có thể hiểu cách khác, nó là lượng dữ liệu được truyền đến hệ thống mỗi giây. Số liệu được do thường tính theo đơn vị MB/s hoặc GB/s
 * [Latency - Độ trễ](/IOPS//Terms/Latency.md) đo thời gian từ khi đưa ra yêu cầu đến khi nhận được phản hồi. Liên quan đến IOPS, độ trễ là thước đo khoảng thời gian cần thiết để hoàn thành một yêu cầu I / O đơn lẻ theo quan điểm của ứng dụng.
