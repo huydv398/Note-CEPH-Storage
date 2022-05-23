@@ -39,9 +39,9 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
     1. [LVM - Cấu hình cơ bản phần 2](/Docs/LVM/4.config-basic-2.md)
     1. [LVM - Snapshot](/Docs/LVM/5.lvm-snapshot.md)
     1. [LVM - Thin Provisioning Volume](/Docs/LVM/6.Thin-Provisioning-Volume.md)
-    1. [LVM](/Docs/LVM/7.Striped-lvm.md)
-    1. [LVM](/Docs/LVM/8.Mirrored-LVM.md)
-    1. [LVM](/Docs/LVM/9.Cache-LVM.md)
+    1. [LVM - Striped Logical Volumes](/Docs/LVM/7.Striped-lvm.md)
+    1. [LVM - Mirrored Logical Volume](/Docs/LVM/8.Mirrored-LVM.md)
+    1. [LVM - Cache Volume](/Docs/LVM/9.Cache-LVM.md)
 ## III. Tìm hiểu các thuật ngữ	
 1. [SLA,SLO](/Docs/)
 1. [QoS - Quality of service](/Docs/)
