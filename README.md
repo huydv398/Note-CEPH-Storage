@@ -12,7 +12,24 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
 1. [Block size & Hiệu suất Disk liên tục](/Docs/5.performance&block.md)
 1. [Thông số hiệu suất Disk: IOPS, Throughput, Legacy](/IOPS/README.md)
 1. [Drive interface FC, SAS, SATA, NVME(PCIe)](/Docs/6.drive-interfaces.md)
-## II. ỨNG DỤNG
+    1. [SATA](/Docs/IOPS/Driver-type/Sata.md)
+    1. [SAS](/Docs/IOPS/Driver-type/SAS.md)
+    1. [Fiber Chanel](/Docs/IOPS/Driver-type/FC.md)
+## II. Tìm hiểu các thuật ngữ và Thông số
+1. [SLA,SLO](/Docs/IOPS/)
+1. [Input/Output](/Docs/IOPS/I-O.md)
+1. [Thông số RPM](/Docs/IOPS/RPM.md)
+1. [Thông số letancy](/Docs/IOPS/Latency.md)
+1. [Thông số Throughput](/Docs/IOPS/throughput.md)
+1. [Thông số RPM](/Docs/IOPS/RPM.md)
+1. [QoS - Quality of service](/Docs/IOPS/QoS.md)
+1. [Tìm hiểu về các thông số: IOPS, Latency và Throughput](/Docs/IOPS/iops-latency-throughput.md)
+1. [Mối quan hệ; IOPS latency và bandwidth](/Docs/5.performance&block.md)
+1. [Jitter](/Docs/IOPS/Jitter.md)
+1. [Capacity](/Docs/IOPS/Capacity.md)
+1. [I/O Size](/Docs/IOPS/IO-size.md)
+1. [Độ quan trọng latency](/Docs/IOPS/)
+## III. ỨNG DỤNG
 1. [File system](/Docs/Filesystem/1.file-system.md)
     1. [File system Windows](/Docs/Filesystem/1.1.File-system-Windows.md)
     1. [File system Linux - part 1](/Docs/Filesystem/1.2.File-system-Linux.md)
@@ -42,23 +59,23 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
     1. [LVM - Striped Logical Volumes](/Docs/LVM/7.Striped-lvm.md)
     1. [LVM - Mirrored Logical Volume](/Docs/LVM/8.Mirrored-LVM.md)
     1. [LVM - Cache Volume](/Docs/LVM/9.Cache-LVM.md)
-## III. Tìm hiểu các thuật ngữ	
-1. [SLA,SLO](/Docs/)
-1. [QoS - Quality of service](/Docs/)
-1. [Latency](/Docs/)
-1. [Throughput](/Docs/)
-1. [Jitter](/Docs/)
-1. [Capacity](/Docs/)
-1. [I/O Size](/Docs/)
-## IV. THÔNG SỐ	
-1. [Độ quan trọng latency](/Docs/)
-1. [Tìm hiểu về các thông số: IOPS, Latency và Throughput](/Docs/)
-1. [Mối quan hệ; IOPS latency và bandwidth](/Docs/)
-1. [Ý nghĩa các thông số: IOPS, Latency và Throughput](/Docs/)
-## V. Bench mark ổ đĩa	
+
+## IV. Thực hành	
+1. [Add disk linux, Add disk theo LVM và Không LVM, Phân biệt so sánh.](/Docs/Lab/)
+1. [Các bước mount ổ cứng](/Docs/Lab/)
+1. [Cấu hình Raid cứng raid mềm](/Docs/Lab/)
+1. [Add disk theo LVM và Không LVM, Phân biệt so sánh.](/Docs/Lab/)
+1. [Hướng dẫn sử dụng lệnh mkfs, fdisk, dd](/Docs/Lab/)
+1. [Kiểm tra tốc độ Disk bằng IOStart](/Docs/Lab/)
+1. [KH có phản ảnh Đọc ghi chậm thì sử lý và kiểm tra như nào?](/Docs/Lab/)
+1. [Kiểm tra tốc độ đọc ghi tại thời điểm hiện tại](/Docs/Lab/)
+1. [Check latency](/Docs/Lab/)
+1. [Sử dụng fio để kiểm tra tốc độ ban đầu của disk](/Docs/Lab/)
 1. [Thực hành lệnh `dd` trong linux](/Docs/)
 1. [Ý nghĩa tham số FIO bench mark](/Docs/)       
-1. [FIO bench mark](/Docs/)   
+1. [FIO bench mark](/Docs/) 
+## V. CEPH
+  
 ## VI. Cloud and Storage
 1. [CEPH](/)
 1. [SAN](/)
