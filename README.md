@@ -62,9 +62,10 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
 
 ## IV. Thực hành	
 1. [Add disk linux, Add disk theo LVM và Không LVM, Phân biệt so sánh.](/Docs/Lab/1.add-disk-linux.md)
-1. [Các bước mount ổ cứng](/Docs/Lab/2.mount-linux.md)
+1. [Hướng dẫn sử dụng lệnh fdisk](/Docs/Lab/2.cmd-fdisk.md)
+1. [Hướng dẫn sử dụng lệnh mkfs](/Docs/Lab/2.cmd-mkfs.md)
 1. [Cấu hình Raid cứng raid mềm](/Docs/Lab/3.config-raid.md)
-1. [Hướng dẫn sử dụng lệnh mkfs, fdisk, dd](/Docs/Lab/4.cmd-disk.md)
+1. [Hướng dẫn sử dụng lệnh dd](/Docs/Lab/4.cmd-disk.md)
 1. [Kiểm tra tốc độ Disk bằng IOStat](/Docs/Lab/5.test-Linux-iostat.md)
 1. [KH có phản ảnh Đọc ghi chậm thì sử lý và kiểm tra như nào?](/Docs/Lab/6.Q&A-IO.md)
 1. [Kiểm tra tốc độ đọc ghi tại thời điểm hiện tại](/Docs/Lab/7.test.speed.md)
