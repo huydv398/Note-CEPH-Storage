@@ -1,7 +1,3 @@
-
-
-
-![img lab](/Docs/Lab/img/Screenshot_17.png)</br>
 ![img lab](/Docs/Lab/img/Screenshot_18.png)</br>
 ![img lab](/Docs/Lab/img/Screenshot_19.png)</br>
 ![img lab](/Docs/Lab/img/Screenshot_20.png)</br>
@@ -16,7 +12,6 @@
 ![img lab](/Docs/Lab/img/Screenshot_29.png)
 ![img lab](/Docs/Lab/img/Screenshot_30.png)
 ![img lab](/Docs/Lab/img/Screenshot_31.png)
-
 ![img lab](/Docs/Lab/img/Screenshot_32.png)
 ![img lab](/Docs/Lab/img/Screenshot_33.png)
 ![img lab](/Docs/Lab/img/Screenshot_34.png)
