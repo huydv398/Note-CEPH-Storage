@@ -68,9 +68,11 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
 1. [[Phần 1 - Cmd `dd` Basic] Hướng dẫn sử dụng lệnh dd](/Docs/Lab/4.cmd-dd-disk.md)
 1. [[Phần 2 - Cmd `dd` Test Performance] Hướng dẫn sử dụng lệnh dd - Test latency, throughput](/Docs/Lab/4.cmd-dd-test.md)
 1. [Kiểm tra tốc độ Disk bằng IOStat](/Docs/Lab/5.test-Linux-iostat.md)
-1. [Sử dụng fio để kiểm tra tốc độ ban đầu của disk](/Docs/Lab/6.test-FIO.md)       
+1. [[Basic 1] - Sử dụng fio để kiểm tra tốc độ ban đầu của disk](/Docs/Lab/6.test-FIO.md)       
+1. [[Basic 2] - Ứng dụng FIO trong thực tế](/Docs/Lab/7.test-FIO-2.md)       
 ## V. CEPH
-  
+1. [CEPH - What is CEPH?](/Docs/CEPH-Note/1.What-is-CEPH.md)
+1. [CEPH -](/Docs/CEPH-Note/.md)
 ## VI. Cloud and Storage
 1. [CEPH](/)
 1. [SAN](/)
