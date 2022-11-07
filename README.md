@@ -72,8 +72,8 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
 1. [[Basic 2] - Ứng dụng FIO trong thực tế](/Docs/Lab/7.test-FIO-2.md)       
 ## V. CEPH
 1. [CEPH - What is CEPH?](/Docs/CEPH-Note/1.What-is-CEPH.md)
-1. [CEPH -Thuật ngữ sử dụng](/Docs/CEPH-Note/2.GLOSSARY.md)
-1. [CEPH -](/Docs/CEPH-Note/.md)
+1. [CEPH - Thuật ngữ sử dụng khi làm việc với CEPH](/Docs/CEPH-Note/2.GLOSSARY.md)
+1. [CEPH - Kiến trúc và các thành phần Ceph](/Docs/CEPH-Note/3.architecture-component-ceph.md)
 1. [CEPH -](/Docs/CEPH-Note/.md)
 1. [CEPH -](/Docs/CEPH-Note/.md)
 1. [CEPH -](/Docs/CEPH-Note/.md)
