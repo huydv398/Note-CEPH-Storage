@@ -79,6 +79,17 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
 1. [CEPH -](/Docs/CEPH-Note/.md)
 1. [CEPH -](/Docs/CEPH-Note/.md)
 1. [CEPH -](/Docs/CEPH-Note/.md)
+### V.I Thực hanh cơ bản với CEPH
+1. [CEPH_LAB -](/Docs/CEPH-Note/LAB-/1.ceph-install-luminous-aio.md)
+1. [CEPH_LAB -](/Docs/CEPH-Note/LAB-/)
+1. [CEPH_LAB -](/Docs/CEPH-Note/LAB-/)
+1. [CEPH_LAB -](/Docs/CEPH-Note/LAB-/)
+1. [CEPH_LAB -](/Docs/CEPH-Note/LAB-/)
+1. [CEPH_LAB -](/Docs/CEPH-Note/LAB-/)
+1. [CEPH_LAB -](/Docs/CEPH-Note/LAB-/)
+1. [CEPH_LAB -](/Docs/CEPH-Note/LAB-/)
+1. [CEPH_LAB -](/Docs/CEPH-Note/LAB-/)
+1. [CEPH_LAB -](/Docs/CEPH-Note/LAB-/)
 ## VI. Cloud and Storage
 1. [CEPH](/)
 1. [SAN](/)
