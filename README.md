@@ -96,6 +96,7 @@ Các tài liệu được note lại trong quá trình tìm hiểu bộ nhớ. L
 1. [vSAN](/)
 1. [OWNCLOUD](/) 
 1. [NEXTCLOUD](/)
+1. [ClusterFS](/)
 
 
 
